@@ -48,6 +48,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [Emploive](https://emploive.com/)
 
 ## Artificial Intelligence (AI)
 
